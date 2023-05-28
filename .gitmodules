@@ -1,0 +1,12 @@
+[submodule "ServerConfigCM"]
+	path = ServerConfigCM
+	url = https://github.com/Coriv/ServerConfigCM
+[submodule "PropertiesCM"]
+	path = PropertiesCM
+	url = https://github.com/Coriv/PropertiesCM
+[submodule "ServerDiscoveryCM"]
+	path = ServerDiscoveryCM
+	url = https://github.com/Coriv/ServerDiscoveryCM
+[submodule "GatewayCM"]
+	path = GatewayCM
+	url = https://github.com/Coriv/GatewayCM

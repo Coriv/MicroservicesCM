@@ -10,3 +10,6 @@
 [submodule "GatewayCM"]
 	path = GatewayCM
 	url = https://github.com/Coriv/GatewayCM
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/Coriv/UserService

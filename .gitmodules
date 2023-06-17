@@ -13,3 +13,6 @@
 [submodule "UserService"]
 	path = UserService
 	url = https://github.com/Coriv/UserService
+[submodule "EmailService"]
+	path = EmailService
+	url = https://github.com/Coriv/EmailService

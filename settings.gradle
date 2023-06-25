@@ -1,1 +1,4 @@
 rootProject.name = 'Microservice'
+include 'ServerConfigCM'
+include 'DiscoveryServerCM'
+include 'GatewayCM'

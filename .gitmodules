@@ -16,3 +16,14 @@
 [submodule "EmailService"]
 	path = EmailService
 	url = https://github.com/Coriv/EmailService
+[submodule "AuthService"]
+    path = AuthService
+    url = https://github.com/Coriv/AuthService
+
+
+[submodule "WalletCrypto"]
+	path = WalletCrypto
+	url = https://github.com/Coriv/WalletCrypto
+[submodule "Trade"]
+	path = Trade
+	url = https://github.com/Coriv/Trade
